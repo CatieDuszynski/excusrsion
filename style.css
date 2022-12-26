@@ -1,0 +1,42 @@
+html{
+
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    display:flex;
+    flex:center;
+}
+h1{
+    font-weight:normal;
+    font-size: 50px;
+    color:white;
+    display: center;
+}
+h4{
+    color:aquamarine;
+    font-size: 16px;
+}
+.video{
+    display: flex;
+    flex:center;
+}
+h2{
+    font-weight:300;
+    font-size: 42px;
+}
+h3{
+    font-size: 21px;
+    color:gray;
+}
+figure{
+    display:center;
+}
+footer{
+    display:flex;
+}
+footer p{
+    color:gray;
+    display:flex-end;
+    
+}
